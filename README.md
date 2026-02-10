@@ -1,7 +1,7 @@
 <!-- Header image (simple SVG banner) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0e75b6&height=140&section=header&text=Morin%20Ibrahim&fontSize=48&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,20:ff00c8,50:00e5ff,80:7c00ff,100:0b0f1a&height=170&section=header&text=Morin%20Ibrahim&fontSize=54&fontColor=f8f7ff&animation=fadeIn&fontAlignY=35"
     alt="Header"
   />
 </p>
@@ -24,13 +24,21 @@
 <hr/>
 
 <!-- Optional: minimalist typing line (delete this whole block if you want it totally static) -->
+<!--
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+clean+UIs+with+React;Comfortable+from+UI+to+API+to+database;Learning+fast%2C+shipping+often"
     alt="Typing summary"
   />
 </p>
+-->
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&color=00E5FF&center=true&vCenter=true&width=780&lines=%5Bboot%5D+react+ui+systems;%5Bsync%5D+api+integration+%26+data+flow;%5Bdb%5D+postgresql+%2F+mysql+fundamentals"
+    alt="Typing summary"
+  />
+</p>
 <br/>
 
 <table align="center" width="100%">
@@ -141,7 +149,7 @@
 <!-- Footer image (optional) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0e75b6&height=80&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,20:7c00ff,50:00e5ff,80:ff00c8,100:0b0f1a&height=120&section=footer"
     alt="Footer"
   />
 </p>
