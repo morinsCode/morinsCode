@@ -40,7 +40,7 @@
   />
 </p>
 <br/>
-
+<!--
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -61,7 +61,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <br/>
 <!--
 <h2>Featured Projects</h2>
