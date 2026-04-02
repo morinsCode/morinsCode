@@ -41,7 +41,7 @@ Tech: React, Node.js, PostgreSQL
 **Scoundrels Descent**  
 Web-based dungeon crawler card game focused on state and game logic  
 Tech: React, TypeScript, Node.js  
-Link: https://github.com/morinscode/scoundrels-descent  
+https://github.com/morinscode/scoundrels-descent  
 
 ---
 
